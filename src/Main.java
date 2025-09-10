@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 class Food {
     String name;
     int calories;
