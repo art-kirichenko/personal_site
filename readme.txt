@@ -17,3 +17,5 @@ User activation via email
 Suggests optimal meal times based on wake-up and sleep schedule
 
 Displays daily energy rhythms (peaks, lows, and recommendations)
+
+Program must include automated tests
